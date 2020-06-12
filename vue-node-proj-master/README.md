@@ -32,7 +32,7 @@ my first project of learning vue-node
 
 后台：`server` 目录；主要技术：`express+mongoose`
 
-（前后端分离，路由跳转在前端通过 vue-router 控制，后台只负责数据接口）
+（前后端分离，路由跳转在前端通过 vue-router 控制，后台只负责数据接口; 开发时，只需关注client 与server这两个文件即可）
 
 ## 项目运行：
 ### 环境配置：
