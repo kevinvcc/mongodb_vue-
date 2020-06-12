@@ -5,7 +5,7 @@
   "dependencies": {
     "express": "^4.15.3",
     "mongodb": "^3.5.8",
-    "mongoose": "^4.10.6"
+    "mongoose": "^5.7.5"
   },
   "devDependencies": {},
   "scripts": {
