@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "mongoose": "^4.13.20"
+    "mongoose": "^5.7.5"
   },
   "name": "s4_mongoose",
   "version": "1.0.0",
